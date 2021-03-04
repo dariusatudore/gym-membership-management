@@ -1,2 +1,3 @@
 # gym-membership-management
-A java CLI app for managing memberships for a gym network.
+
+A CLI application written in Java that emulates the management of memberships for a multi-gym network.
